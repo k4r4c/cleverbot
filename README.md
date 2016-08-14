@@ -7,7 +7,7 @@ A faire :
     
     - database de "mémoire", pour enregistrer les réponses
     
-    - important : poser beaucoup de questions pour pouvoir beaucoup apprendre ! =)
+    - important : poser beaucoup de questions pour pouvoir apprendre
 
 
     
